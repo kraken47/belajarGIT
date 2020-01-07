@@ -1,6 +1,5 @@
 # Git
-Creadit to: [Sven]
-[sven]: https://gist.github.com/hofmannsven/6814451
+Creadit to: [Sven]: https://gist.github.com/hofmannsven/6814451
 
 ## Global Settings
 - Related Setup: https://gist.github.com/hofmannsven/6814278
